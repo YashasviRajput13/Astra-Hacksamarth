@@ -4,7 +4,7 @@ import { HashRouter, Routes, Route, Navigate } from 'react-router-dom';
 import { mockApi } from './services/mockApi';
 import { AuthState, User, Location } from './types';
 
-// Components & Pages
+// Component & Pages
 import Layout from './components/Layout';
 import Landing from './pages/Landing';
 import Dashboard from './pages/Dashboard';
