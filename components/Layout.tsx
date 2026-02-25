@@ -7,6 +7,7 @@ interface LayoutProps {
   children: React.ReactNode;
   user: any;
   onLogout: () => void;
+  
 }
 
 const LOGO_URL = "https://media.istockphoto.com/id/1360805952/vector/portrait-of-a-strong-woman-in-half-turn-avatar.jpg?s=612x612&w=0&k=20&c=PJCBU-7SFqnwfFI-NQUcHqRcxvcCayB1U8lD1C9FROU=";
