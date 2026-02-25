@@ -11,6 +11,7 @@ export const FEATURES = [
     title: "Instant Trigger",
     description: "Discrete physical button or voice activation for immediate alert dispatch."
   },
+  
   {
     icon: <Users className="w-6 h-6 text-indigo-400" />,
     title: "Multi-Contact Flow",
