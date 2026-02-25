@@ -56,7 +56,7 @@ const Dashboard: React.FC<DashboardProps> = ({ onTriggerSOS }) => {
             onClick={() => window.location.hash = '/live-alert'}
             className="px-4 py-2 bg-rose-500 text-white rounded-xl text-sm font-bold"
           >
-            View Live Status
+            View Live Status 
           </button>
         </div>
       )}
